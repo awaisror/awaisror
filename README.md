@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ...     AWS
 - 💬 Ask me about ...                  ROR & React.js
-- 📫 How to reach me: ...              awaisror217@gail.com
+- 📫 How to reach me: ...              awaisror217@gmail.com
 - 😄 Pronouns: ...                     He/Him
 - ⚡ Fun fact: ...                      Lists are better than large paragraphs.
