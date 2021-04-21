@@ -7,6 +7,14 @@
 
 <h2>🌱 The Full Shebang</h2>
 
+<ul>
+<li>Build killer websites as a "full-stack" developer</li>
+<li>Online instructor</li>
+<li>Leader</li>
+<li>Tech Builder</li>
+<li>Not sure what you need? I can help with that too.</li>
+</ul>
+
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
