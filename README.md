@@ -17,6 +17,15 @@
 
 <h2>👯 Skills / Languages</h2>
 
+<ul>
+<li><img src"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png">Ruby </li>
+<li>SEOer</li>
+<li>Online instructor</li>
+<li>Leader</li>
+<li>Tech Builder</li>
+<li>Not sure what you need? I can help with that too.</li>
+</ul>
+
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
