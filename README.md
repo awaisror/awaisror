@@ -28,10 +28,12 @@
 <li><code>^ RegExp $</code> not bad</li>
 </ul>
 
-<h2>ABOUT ME?</h2>
+<h2>🤔 ABOUT ME?</h2>
 
 <p>Sure!
-<em>Studied software engineering and have a first class degree with honours in London. Started working with computers since the release of early Unix and MS-DOS when there weren't not graphical user interface operating systems. Started programming when 16 with PHP and JavaScript, working with XHTML and early CSS to create static websites. While learning, decided to make online tutorials which results to be an instructor in Udemy and Parsclick with many satisfied students.</em></p>
+<em>Studied software engineering and have a first class degree with honours in Pakistan. Started programming when 22 with Ruby on Rails and JavaScript, working with XHTML and early CSS to create static websites.</em></p>
+
+<p><em>Mainly build web applications as a web developer. Built applications with Ruby on Rails, Postgresql, React.jS, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Ruby, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time.</em></p>
 
 ### Here is What i'am Working on! 👋
 
