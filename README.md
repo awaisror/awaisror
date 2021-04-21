@@ -15,6 +15,8 @@
 <li>Not sure what you need? I can help with that too.</li>
 </ul>
 
+<h2>👯 Skills / Languages</h2>
+
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
