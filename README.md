@@ -35,6 +35,8 @@
 
 <p><em>Mainly build web applications as a web developer. Built applications with Ruby on Rails, Postgresql, React.jS, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Ruby, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time.</em></p>
 
+<h2>💬 Portfoliooo 💬</h2>
+
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
