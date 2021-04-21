@@ -4,6 +4,9 @@
 
 <p>Make that thing of yours even better. I can help either with the big picture or with specifics.</p>
 
+
+<h3>🌱 The Full Shebang</h3>
+
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
