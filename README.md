@@ -35,15 +35,23 @@
 
 <p><em>Mainly build web applications as a web developer. Built applications with Ruby on Rails, Postgresql, React.jS, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Ruby, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time.</em></p>
 
-<h2>💬 Portfoliooo 💬</h2>
+<h2>💬 portfolio 💬</h2>
+<ul>
+<li>http://safelyreopen.org</li>
+<li>http://bridge-gap-tx.herokuapp.com/</li>
+<li>https://cncrepair.co.za</li>
+</ul>
 
-### Here is What i'am Working on! 👋
+<h2>📫 Reach Out</h2>
 
-- 🔭 I’m currently working on ...      Ruby on Rails
-- 🌱 I’m currently learning ...        React.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ...     AWS
-- 💬 Ask me about ...                  ROR & React.js
-- 📫 How to reach me: ...              awaisror217@gmail.com
-- 😄 Pronouns: ...                     He/Him
-- ⚡ Fun fact: ...                      Lists are better than large paragraphs.
+<p>And touch base ⚡ I like meeting new people.</p>
+
+<h2>⚡ Fun fact</h2>
+
+<ul>
+<li>Vlogger, I love cameras and video edits</li>
+<li>Fitness enthusiast</li>
+<li>I run</li>
+</ul>
+
+<p>Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]</p>
