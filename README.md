@@ -18,12 +18,14 @@
 <h2>👯 Skills / Languages</h2>
 
 <ul>
-<li><img src"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png">Ruby </li>
-<li>SEOer</li>
-<li>Online instructor</li>
-<li>Leader</li>
-<li>Tech Builder</li>
-<li>Not sure what you need? I can help with that too.</li>
+<li><code>&lt;%= 'Ruby on Rails' %&gt;</code> great</li>
+<li><code>&gt;&gt; puts 'Ruby'</code> good</li>
+<li><code>React.js</code> getting better</li>
+<li><code>JavaScript</code> &amp; <code>$(jQuery)</code> good</li>
+<li><code>&lt;HTML&gt;</code> + <code>{CSS}</code> + <code>@Less</code> + <code>$Sass</code> great</li>
+<li><code>DATABASE</code> &amp; <code>SQL</code> very good</li>
+<li><code>Git</code> great</li>
+<li><code>^ RegExp $</code> not bad</li>
 </ul>
 
 ### Here is What i'am Working on! 👋
