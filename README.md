@@ -1,4 +1,4 @@
-<span style="font-size: 50px;">Hi there 👋</span>
+<b>Hi there</b> 👋
 
 ### 🔭 What I do ?
 <hr>
