@@ -1,4 +1,4 @@
-<b>Hi there</b> 👋
+<b>Hi there 👋</b>
 
 ### 🔭 What I do ?
 <hr>
