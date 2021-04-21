@@ -2,8 +2,6 @@
 
 <h2>🔭 What I do ?</h2>
 
-# Sample H1
-
 ### Here is What i'am Working on! 👋
 
 - 🔭 I’m currently working on ...      Ruby on Rails
