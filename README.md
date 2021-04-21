@@ -1,7 +1,6 @@
 <b>Hi there 👋</b>
 
-### 🔭 What I do ?
-<hr>
+### 🔭 What I do ?<hr>
 
 ### Here is What i'am Working on! 👋
 
